@@ -18,6 +18,3 @@
 
 [![personal_project ⭐ 1](https://www.shieldcn.dev/github/stars/jheel23/personal_project.svg?variant=secondary&size=sm&theme=zinc)](https://github.com/jheel23/personal_project)
 
----
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
